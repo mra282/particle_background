@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Particle Example</title>
+        <link rel="stylesheet" type="text/css" href="css/style.css">
+    </head>
+    <body>
+        <div id="particles-js">
+            
+        </div>
+        <canvas id="particles" class="background"></canvas>
+        <script src="js/particles.js"></script>
+        <script>
+            window.onload = () => {    
+                const canvas = document.getElementById('particles');
+                const options = {
+                    connectLines: true,
+                    particleColor: 'rgba(255, 255, 255, 0.8)',
+                    backgroundColor: 'darkblue',
+                    snow: true
+                };
+                const particleSystem = new ParticleSystem(canvas, 100, options);
+                            };
+        </script>
+</html>
