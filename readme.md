@@ -14,7 +14,7 @@ A customizable particle system inspired by Particles.js, with support for connec
 Clone the repository:
 
 ```sh
-git clone https://github.com/yourusername/custom-particles-js.git
+git clone https://github.com/mra282/custom-particles-js.git
 ```
 
 Navigate to the project directory:
