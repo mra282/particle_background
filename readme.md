@@ -1,5 +1,7 @@
 # Custom Particles.js
 
+<a href="https://www.buymeacoffee.com/mra282" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="20" width="85"></a>
+
 A customizable particle system inspired by Particles.js, with support for connecting lines, particle color customization, canvas background color, and a snow mode where particles fall like snow.
 
 ## Features
